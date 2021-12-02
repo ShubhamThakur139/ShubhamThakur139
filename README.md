@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Thakur</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
+-   💻 I’m a full stack web developer.
 -   🌱 I love to code, build things & solve problems. <br/>
 -   ⚡ For fun, I like to play chess, cricket and solving Rubik's cube. <br/>
 -   💬 Ask me about **Java, MySQL, Spring Boot, DS & Algo**
