@@ -33,3 +33,8 @@
     <a href="https://twitter.com/its_Shibuu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhamthakur139&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamthakur139" /> </p>
+
+
+
